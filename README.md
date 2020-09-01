@@ -1,2 +1,2 @@
 # Problem-Solving
-Will be adding solutions to some standard interesting problems:)
+Will be adding solutions to some standard and interesting problems:)
